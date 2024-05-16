@@ -7,7 +7,7 @@ This project likely uses a web development framework like React or Vue.js. Here 
 # 1.Clone the repository:
 
 Bash
-git clone https://github.com/username/carpool-landing-page.git
+git clone https://github.com/urfan03/ShareGo.git
 Kodu dikkatli kullanın.
 content_copy
 Replace username with the actual username of the repository.
